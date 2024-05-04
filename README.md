@@ -14,13 +14,13 @@
     </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Crypto%20Game%20Specialist;7+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=FFC200&vCenter=true&size=45%22"></img>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Crypto%20Game%20Specialist;5+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=FFC200&vCenter=true&size=45%22"></img>
 </p>
 
 <h2>🥇 Specialised in:</h2>
 <p>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS, NextJS, NuxtJs, etc
-<br>🔸 BackEnd - Django, ASP.NET MVC(Core), Node, Express, Laravel, RoR, Spring, etc
+<br>🔸 BackEnd - Django, ASP.NET MVC(Core), Node, Express, Laravel, Spring, etc
 <br>🔸 AWS, Docker, Kubernete, Firebase
-<br>🔸 BlockChain - Web3, Dapp, NFT Marketplace
-<br>🔸 Ethereum, Solidity, Smart Contract, Solana, Anchor
+<br>🔸 BlockChain - Web3, Dapp, NFT Marketplace, Telegram Bot, Radix
+<br>🔸 Ethereum, Solidity, Smart Contract, Solana, Rust, Anchor, Scrypto
 <p>
