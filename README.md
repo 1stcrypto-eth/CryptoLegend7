@@ -18,9 +18,11 @@
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS, NextJS, NuxtJs, etc
-<br>🔸 BackEnd - Django, ASP.NET MVC(Core), Node, Express, Laravel, Spring, etc
+<p>
+<br>🔸 BlockChain - Solidity, Rust, FunC/Tact, Ethereum, Solana, Ton, Remix, Truffle, HardHat, web3.js, ethers.js, Smart Contract, Dapp, NFT Marketplace, Telegram Bot
+</p>
+<p>
+<br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS, NextJS, NuxtJs, etc
+<br>🔸 BackEnd - Node, Express, Laravel, Spring, Django, ASP.NET MVC(Core) etc
 <br>🔸 AWS, Docker, Kubernete, Firebase
-<br>🔸 BlockChain - Web3, Dapp, NFT Marketplace, Telegram Bot, Radix
-<br>🔸 Ethereum, Solidity, Smart Contract, Solana, Rust, Anchor, Scrypto
 <p>
